@@ -1,7 +1,7 @@
 `use strict`;
 
 let nameList = [
-    "Reece",
+    "Hamid",
     "Tony"
 ];
 
