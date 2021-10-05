@@ -1,15 +1,24 @@
 `use strict`;
 
+console.log("Hello");
+
 let nameList = [
     "Reece",
     "Tony",
-    "Ali"
+    "Ali",
+	  "Lukas",
+    "Sam"	
 ];
 
 let foods = [
+    "Pizza",
+    "Lasagna",
+    "Chicken Fried Rice",
     "Pizza", 
     "Lasagna",
-    "Pizza"
+    "Pizza",
+	  "Burgers",
+    "Goulash"
 ];
 
 const randName = nameList[Math.floor(Math.random() * nameList.length)];
