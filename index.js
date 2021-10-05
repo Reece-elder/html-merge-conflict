@@ -2,12 +2,14 @@
 
 let nameList = [
     "Reece",
-    "Tony"
+    "Tony",
+	"Fraser"
 ];
 
 let foods = [
     "Pizza", 
-    "Lasagna"
+    "Lasagna",
+	"Gnocci",
 ];
 
 const randName = nameList[Math.floor(Math.random() * nameList.length)];
@@ -25,3 +27,5 @@ websiteTitle.appendChild(websiteString);
 
 console.log(randName);
 console.log(randFood);
+console.log("Hello There!");
+console.log("General Kenobi!");
