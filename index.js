@@ -2,11 +2,15 @@
 
 console.log("Hello");
 
-let nameList = [
+let foods = [
     "Reece",
     "Tony",
 	  "Fraser",
 	  "Lukas",
+    "Sean",
+    "Jonny",
+    "Lukas",
+
     "Sam"	
 
 ];
@@ -15,11 +19,16 @@ let foods = [
     "Pizza",
     "Lasagna",
     "Chicken Fried Rice",
+
     "Pizza", 
     "Lasagna",
 	  "Gnocci",
 	"Burgers",
     "Goulash"
+      "Katsu Curry",
+	"Burgers",
+    "Goulash",
+    "Tonkatsu"
 
 ];
 
