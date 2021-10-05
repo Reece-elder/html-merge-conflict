@@ -2,6 +2,10 @@
 
 console.log("Hello");
 
+let nameList = [
+    "Hamid",
+    "Tony"
+
 let foods = [
     "Reece",
     "Tony",
