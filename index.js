@@ -5,16 +5,21 @@ console.log("Hello");
 let nameList = [
     "Reece",
     "Tony",
+    "Gabriel",
+    "Tony",
     "Jonny",
     "Lukas",
     "Sam"	
 ];
 
+
+
 let foods = [
     "Pizza",
     "Lasagna",
     "Chicken Fried Rice",
-	"Burgers",
+    "Fried Chicken",
+	  "Burgers",
     "Goulash",
     "Tonkatsu"
 ];
