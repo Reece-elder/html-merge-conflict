@@ -5,6 +5,8 @@ console.log("Hello");
 let foods = [
     "Reece",
     "Tony",
+    "Ali",
+	  "Lukas",
     "Sean",
     "Jonny",
     "Lukas",
@@ -15,8 +17,13 @@ let foods = [
     "Pizza",
     "Lasagna",
     "Chicken Fried Rice",
-      "Katsu Curry",
-	"Burgers",
+    "Pizza", 
+    "Lasagna",
+    "Pizza",
+	  "Burgers",
+    "Goulash",
+    "Katsu Curry",
+	  "Burgers",
     "Goulash",
     "Tonkatsu"
 ];
