@@ -5,8 +5,10 @@ console.log("Hello");
 let nameList = [
     "Reece",
     "Tony",
+    "Billy"	,
 	  "Lukas",
     "Sam"	
+
 ];
 
 let foods = [
@@ -15,7 +17,8 @@ let foods = [
     "Chicken Fried Rice",
     "Pizza", 
     "Lasagna",
-	"Burgers",
+    "Stew",
+	  "Burgers",
     "Goulash"
 ];
 
