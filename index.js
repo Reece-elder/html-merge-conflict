@@ -4,21 +4,26 @@ console.log("Hello");
 
 let foods = [
     "Reece",
+    "Tony"
+    "adam"
     "Tony",
     "Sean",
     "Jonny",
     "Lukas",
     "Sam"	
+
 ];
 
 let foods = [
     "Pizza",
     "Lasagna",
     "Chicken Fried Rice",
-      "Katsu Curry",
-	"Burgers",
+    "Pizza", 
+    "Katsu Curry",
+  	"Burgers",
     "Goulash",
     "Tonkatsu"
+
 ];
 
 const randName = nameList[Math.floor(Math.random() * nameList.length)];
