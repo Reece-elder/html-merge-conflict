@@ -3,10 +3,16 @@
 console.log("Hello");
 
 let nameList = [
-    "Reece",
+    "Paschal",
     "Tony",
-	  "Lukas",
-    "Sam"	
+    "Reece",
+    "Sam"
+];
+
+let Rice = [
+    "Chicken", 
+    "Turkey"
+    	
 ];
 
 let foods = [
